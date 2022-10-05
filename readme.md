@@ -1,0 +1,1 @@
+So why does an url start with http?
